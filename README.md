@@ -42,5 +42,3 @@ The model is evaluated on entirely unseen edge devices. Performance is measured 
 
 ## Results & Visualizations
 The model successfully locked onto the exponential degradation curve of unseen test routers, achieving a final **MAE of 27.67 hours**. Given a 500-hour total lifecycle (~20 days), predicting hardware death within a roughly 24-hour margin of error allows for highly effective preemptive maintenance scheduling.
-
-*(Note: Add your `IoT_Degradation_Graph.png` image here in the GitHub repository)*
